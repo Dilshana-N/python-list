@@ -1,0 +1,6 @@
+fruits=("apple","banana","cherry","orange", "kiwi", "melon", "mango")
+print(fruits[1])
+print(fruits[-1])
+print(fruits[3:5])
+print(fruits[:6])
+print(fruits[4:])

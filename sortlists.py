@@ -1,0 +1,12 @@
+fruits=["banana","mango","cherry","kiwi"]
+fruits.sort()
+print(fruits)
+numbers=[1,45,65,34,78,45]
+numbers.sort()
+print(numbers)
+fruits=["banana","mango","cherry","kiwi"]
+fruits.sort(reverse=True)
+print(fruits)
+numbers=[1,45,65,34,78,45]
+numbers.sort(reverse=True)
+print(numbers)
